@@ -1,9 +1,9 @@
 {
-  "name": "remove-special-chars",
-  "version": "0.0.0",
-  "description": "My polished module",
+  "name": "remove-punctuation",
+  "version": "0.0.1",
+  "description": "removes punctuation as well as the symbols: &, #, $, ~, %, ^, *, [, ], :, ;, {, and }.",
   "license": "MIT",
-  "repository": "DerHowie/remove-special-chars",
+  "repository": "DerHowie/remove-punctuation",
   "author": {
     "name": "Christopher Howard",
     "email": "derhowiedesigns@gmail.com",
