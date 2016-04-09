@@ -1,7 +1,7 @@
 {
   "name": "remove-punctuation",
   "version": "0.0.1",
-  "description": "removes punctuation as well as the symbols: &, #, $, ~, %, ^, *, [, ], :, ;, {, and }.",
+  "description": "removes punctuation as well as the symbols: &, #, $, ~, %, ^, *, [, ], {, and }.",
   "license": "MIT",
   "repository": "DerHowie/remove-punctuation",
   "author": {

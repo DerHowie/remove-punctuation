@@ -1,6 +1,6 @@
 # remove-punctuation [![Build Status](https://travis-ci.org/DerHowie/remove-punctuation.svg?branch=master)](https://travis-ci.org/DerHowie/remove-punctuation)
 
-> removes punctuation as well as the symbols : &, #, $, ~, %, ^, *, [, ], :, ;, {, and }.
+> removes punctuation as well as the symbols : &, #, $, ~, %, ^, *, [, ], {, and }.
 
 
 ## Install
