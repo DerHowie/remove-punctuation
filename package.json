@@ -1,6 +1,6 @@
 {
   "name": "remove-punctuation",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "removes punctuation as well as the symbols: &, #, $, ~, %, ^, *, [, ], {, and }.",
   "license": "MIT",
   "repository": "DerHowie/remove-punctuation",
@@ -19,7 +19,10 @@
     "index.js"
   ],
   "keywords": [
-    ""
+    "remove",
+    "symbols",
+    "punctuation",
+    "string"
   ],
   "dependencies": {},
   "devDependencies": {
