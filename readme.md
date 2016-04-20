@@ -15,7 +15,7 @@ $ npm install --save remove-punctuation
 ## Usage
 
 ```js
-const removePunctuation = require('remove-punctuation');
+import removePunctuation from 'remove-punctuation';
 
 removePunctuation('stuff!!!');
 //=> 'stuff'
