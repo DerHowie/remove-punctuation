@@ -1,6 +1,6 @@
 # remove-punctuation
 
-> removes punctuation as well as the symbols : &, #, $, ~, %, ^, *, [, ], {, and }.
+> removes punctuation as well as the characters : &, #, $, ~, %, ^, *, [, ], {, and }.
 
 [![Build Status](https://travis-ci.org/DerHowie/remove-punctuation.svg?branch=master)](https://travis-ci.org/DerHowie/remove-punctuation)
 
@@ -15,7 +15,7 @@ $ npm install --save remove-punctuation
 ## Usage
 
 ```js
-import removePunctuation from 'remove-punctuation';
+var removePunctuation = require('remove-punctuation');
 
 removePunctuation('stuff!!!');
 //=> 'stuff'
